@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  padding: 15px;
+  width: 90%;
+}
